@@ -1,0 +1,6 @@
+name: AntiItemBreak
+version: '${project.version}'
+main: net.daechler.antiitembreak.AntiItemBreak
+api-version: '1.20'
+authors: [Daechler]
+description: Prevent tools from breaking.
